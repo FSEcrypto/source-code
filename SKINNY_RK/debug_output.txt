@@ -1,0 +1,2 @@
+Warning: multiple executables '../../../bin/fzn-gecode' found on the system, using '/snap/minizinc/1015/bin/fzn-gecode'
+Warning: multiple executables '../../../bin/fzn-gecode' found on the system, using '/snap/minizinc/1015/bin/fzn-gecode'
