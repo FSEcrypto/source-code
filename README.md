@@ -7,6 +7,6 @@ This project is the experimental code for the paper "Generalized impossible diff
 项目声明 （Project Statement）
 本项目的作者及单位：
 The authors and affiliation of this project：
-项目名称：ID-MITM
+项目名称：Impossible Differential Attack based on meet-in-the-middle technique
 项目作者：Ling Song, Qinggan Fu et al.
 作者单位：暨南大学网络空间安全学院（College of Cyber Security，Jinan University）
